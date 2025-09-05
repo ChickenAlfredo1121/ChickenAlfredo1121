@@ -4,6 +4,7 @@ h1{
     color: blue;
     font-family: Edu NSW ACT Cursive;
 }
+
 .specific{
     height: 70px;
     width: 200px;
@@ -13,11 +14,11 @@ h1{
     padding-top: 4px;
 }
 
-.card{
+/* .card{
     border: 30px green;
-}
+} */
 
-*{
+/* *{
     border: black;
 }
 
@@ -27,4 +28,4 @@ h4{
 
 li{
     display: inline;
-}
+} */
