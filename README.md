@@ -1,6 +1,7 @@
 ## Hi there 👋
 As a beginner developer I want to learn how to make proper web pages so that I can expand my knowledge and skills. This web page being a practice example.
 
+
 Credit: 
 
 W3Schools- helped with functions as needed.
