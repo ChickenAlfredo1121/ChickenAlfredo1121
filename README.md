@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("Font toggled:", body.className);
   });
 });
-```
+````
 
 #Code Snippet
 This import gives the pages their fonts, sourced from google
