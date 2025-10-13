@@ -129,3 +129,9 @@ a:hover {
     color: pink;
     text-decoration: underline;
   }
+
+
+  .gamePic1{
+    height: 300px;
+    width: 400px;
+  }
