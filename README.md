@@ -22,6 +22,7 @@ individual site pages
 - **Blog.html** – blog about writer (me)
 - **Projects.html** – project showcasae
 - **Resources.html** – List of helpful links or resources
+-**Knowledge.html** - holds knowledge.md as .html
 
 #### docs/scripts/
 JavaScript file with all site behavior changes
@@ -39,7 +40,10 @@ images used
 - **pictureofcybersecuritylogo.jpg**
 - **pictureofgym.jpg**
 - **pictureofnature.jpg**
-
+-**game-thumb.jpg**
+-**projectDeltaExampleImage.png**
+-**ProjectEchoDiagram.png**
+-**wireframeindexexample**
 
 Wireframe link: ![Wireframe of the homepage](docs/images/wireframeindexpage.jpg)
 

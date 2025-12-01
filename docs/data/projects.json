@@ -1,0 +1,18 @@
+{ "projects" : [
+{
+"id": 1,
+"appName": "Project Bravo",
+"repo": "https://github.com/ChickenAlfredo1121/ProjectBravo",
+"app": "https://chickenalfredo1121.github.io/ProjectBravo/",
+"img": "https://chickenalfredo1121.github.io/ProjectBravo/images/GamePic.png"
+},
+{
+"id": 2,
+"appName": "Project Delta",
+"devName": "ChickenAlfredo1121",
+"repo": "https://github.com/ChickenAlfredo1121/ProjectDelta",
+"app": "https://chickenalfredo1121.github.io/ProjectDelta/",
+"img": "https://chickenalfredo1121.github.io/ProjectDelta/images/projectDeltaExampleImage.png"
+}
+] }
+

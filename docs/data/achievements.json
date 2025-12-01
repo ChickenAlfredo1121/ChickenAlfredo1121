@@ -1,0 +1,15 @@
+{ "achievements" : [
+{
+"id": 1,
+"achievementName": "Steady",
+"description": "Target was met 2 weeks in a row",
+"link": "https://www.codecademy.com/users/java4721852351/achievements"
+},
+{
+"id": 2,
+"achievementName": "Committed",
+"description": "Target was met 1 week in a row",
+"link": "https://www.codecademy.com/users/java4721852351/achievements"
+}
+]
+}

@@ -135,3 +135,34 @@ a:hover {
     height: 300px;
     width: 400px;
   }
+
+  .project-card {
+  background-color: azure;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #333;
+  width: 600px;
+  text-align: center;
+}
+.project-card img {
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+.project-card, .achievement-card {
+    background-color: azure; /* Box color */
+    border: 2px solid #333; /* Optional border */
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px 0;
+    width: 100%;          /* Full width of container */
+    box-sizing: border-box;
+}
+
+/* Optional: style the images */
+.project-card img {
+    max-width: 100%;      /* Fit inside the card */
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
