@@ -107,10 +107,10 @@ Reusable “card” styles ensure consistent presentation:
 Everything runs directly in the browser, there is no backend required.
 
 ### Wireframe
-Wireframe link: ![Wireframe of the homepage](/docs/images/wireframeindexpage.jpg)
+Wireframe link: ![Wireframe of the homepage](../images/wireframeindexpage.jpg)
 
 ### Diagram
-Diagram Link: ![Diagram of code to launch process](/docs/images/ProjectEchoDiagram.png)
+Diagram Link: ![Diagram of code to launch process](../images/ProjectEchoDiagram.png)
 
 
 ## Takeaway
@@ -118,4 +118,5 @@ Diagram Link: ![Diagram of code to launch process](/docs/images/ProjectEchoDiagr
 I learned a lot throughout this class. At the start I only knew very basic java, html, and css. Through this course I gained a better understanding not just of how to use each,
 but the application as well. I now understand how websites are built and have a entry-level understanding of how it all comes together. If I were to leave advice to my past self it would
 be to utilize CodeAcademy to it's fullest. There is so much knowledge there that aided be throughout this class. I would also suggest using the CoPilot in VS Code. I didn't start using it till the end of the semester and it was a big help! What would have helped me at the start of learning web development would be a better base understanding. Having an idea of the overarching makeup of a site with examples would have better lead me to make my own. I learned throughout how to create websites, but towards the end I really got the best grasp and could apply it to what I saw
+
 on other websites. Once I saw the method that was being used by others I could compare it to my own and improve.
