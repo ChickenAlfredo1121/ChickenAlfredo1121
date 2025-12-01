@@ -125,11 +125,14 @@ body{
   font-family: "Poiret One", cursive;
 }
 
-a:hover {
-    color: pink;
-    text-decoration: underline;
-  }
+footer a {
+  color: #003366; 
+}
 
+footer a:hover {
+  color: #0055ff; 
+
+}
 
   .gamePic1{
     height: 300px;
@@ -165,4 +168,5 @@ a:hover {
     height: auto;
     display: block;
     margin-top: 10px;
+
 }
