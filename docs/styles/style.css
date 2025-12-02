@@ -2,26 +2,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 
 /* overarching styles */
-*{
+* {
     background-color: beige;
 }
 
-.navbar{
+.navbar {
     background-color: beige;
     border-bottom: 3px solid #333;
 }
 
-.border-two{
+.border-two {
     display: inline-block;
     border-bottom: 1px solid #333;
 }
-body{
+
+body {
     background-color: beige;
     font-family: "Poiret One", cursive;
 }
 
 /* home page(index) */
-.intro-title{
+.intro-title {
     width: 300px;
     padding: 15px 15px;
     margin: 20px auto;
@@ -30,7 +31,7 @@ body{
     background-color: azure;
 }
 
-.intro-paragraph{
+.intro-paragraph {
     width: 600px;
     padding: 20px 20px 15px 15px;
     margin: 20px auto;
@@ -40,13 +41,13 @@ body{
     background-color: azure;
 }
 
-.container{
+.container {
     margin: 0px 5px;
 }
 
 
 /* blog */
-.blog-post{
+.blog-post {
     width: 900px;
     height: 300px;
     font-size: 18px;
@@ -56,7 +57,8 @@ body{
     text-align: left;
     background-color: azure;
 }
-.date{
+
+.date {
     width: 50px;
     height: 30px;
     font-size: 14px;
@@ -69,7 +71,7 @@ body{
     background-color: azure;
 }
 
-.user{
+.user {
     width: 50px;
     height: 5px;
     font-size: 14px;
@@ -82,17 +84,18 @@ body{
     font-family: Poiret One;
 }
 
-.images{
-    width:250px;
+.images {
+    width: 250px;
     position: relative;
     left: 600px;
     bottom: 100px;
 }
 
-.blog-info{
+.blog-info {
     height: 230px;
 }
-.blog-text{
+
+.blog-text {
     width: 550px;
     position: relative;
     left: 5px;
@@ -100,7 +103,8 @@ body{
 
 
 /* resource page and part of projects page */
-.resources-text, .projects-text{
+.resources-text,
+.projects-text {
     width: 600px;
     border: 12px solid;
     border-color: azure;
@@ -109,7 +113,9 @@ body{
     position: relative;
     padding: 20px;
 }
-.resources-head, .projects-head{
+
+.resources-head,
+.projects-head {
     text-align: center;
     font-size: 25px;
 }
@@ -118,58 +124,64 @@ body{
 
 /* fonts being changed */
 .font-theme-one {
-  font-family: "Google Sans Code", sans-serif;
+    font-family: "Google Sans Code", sans-serif;
 }
 
 .font-theme-two {
-  font-family: "Poiret One", cursive;
+    font-family: "Poiret One", cursive;
 }
 
 
 .navbar a,
 .nav-link,
 .navbar-brand {
-  color: #003366 !important;
+    color: #003366 !important;
 }
 
 .navbar a:hover,
 .nav-link:hover,
 .navbar-brand:hover {
-  color: #0055ff !important;
+    color: #0055ff !important;
 }
 
 
-  .gamePic1{
+.gamePic1 {
     height: 300px;
     width: 400px;
-  }
-
-  .project-card {
-  background-color: azure;
-  margin: 20px auto;
-  padding: 20px;
-  border: 2px solid #333;
-  width: 600px;
-  text-align: center;
 }
+
+.project-card {
+    background-color: azure;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    width: 600px;
+    text-align: center;
+}
+
 .project-card img {
-  margin-top: 10px;
-  max-width: 100%;
+    margin-top: 10px;
+    max-width: 100%;
 }
 
-.project-card, .achievement-card {
-    background-color: azure; /* Box color */
-    border: 2px solid #333; /* Optional border */
+.project-card,
+.achievement-card {
+    background-color: azure;
+    /* Box color */
+    border: 2px solid #333;
+    /* Optional border */
     border-radius: 8px;
     padding: 15px;
     margin: 15px 0;
-    width: 100%;          /* Full width of container */
+    width: 100%;
+    /* Full width of container */
     box-sizing: border-box;
 }
 
 /* Optional: style the images */
 .project-card img {
-    max-width: 100%;      /* Fit inside the card */
+    max-width: 100%;
+    /* Fit inside the card */
     height: auto;
     display: block;
     margin-top: 10px;
@@ -183,4 +195,19 @@ a:visited {
 
 a:hover {
     color: #0055ff !important;
+}
+
+.search-box {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px 12px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
 }

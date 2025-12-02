@@ -75,3 +75,20 @@ document.addEventListener("DOMContentLoaded", () => {
   loadJSONData('../data/achievements.json', 'achievements-container', 'achievements');
 
 });
+
+// 🌟 SEARCH + FILTER SYSTEM
+document.getElementById("search-input").addEventListener("input", function () {
+  const query = this.value.toLowerCase().trim();
+
+  const cards = document.querySelectorAll(".project-card, .achievement-card");
+
+  cards.forEach(card => {
+    const text = card.innerText.toLowerCase();
+
+    if (text.includes(query)) {
+      card.style.display = "block";
+    } else {
+      card.style.display = "none";
+    }
+  });
+});
