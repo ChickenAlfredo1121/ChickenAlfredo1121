@@ -125,14 +125,19 @@ body{
   font-family: "Poiret One", cursive;
 }
 
-footer a {
-  color: #003366; 
+
+.navbar a,
+.nav-link,
+.navbar-brand {
+  color: #003366 !important;
 }
 
-footer a:hover {
-  color: #0055ff; 
-
+.navbar a:hover,
+.nav-link:hover,
+.navbar-brand:hover {
+  color: #0055ff !important;
 }
+
 
   .gamePic1{
     height: 300px;
@@ -168,5 +173,14 @@ footer a:hover {
     height: auto;
     display: block;
     margin-top: 10px;
+}
 
+a,
+a:link,
+a:visited {
+    color: #003366 !important;
+}
+
+a:hover {
+    color: #0055ff !important;
 }
